@@ -1,6 +1,5 @@
 # Cards recognition
 
-## Introduction
 We wanted to identify which cards is on a picture.
 
 Firstly, we created a datasets using image processing. I took pictures of 52 cards with different lightings, then used cantour detection to crop out the cards and put them on different background while record their position into a text file and then to the XML format to feed into the model. Here is an example of the genareted dataset
