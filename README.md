@@ -13,7 +13,17 @@ It is important to note that we want to detect only the small parts at the corne
 
 
 ## Library
-
+numpy>=1.18.2
+scipy>=1.4.1
+wget>=3.2
+seaborn>=0.10.0
+tensorflow==2.3.0
+tensorflow-gpu==2.3.0
+opencv-python==4.1.2.30
+tqdm==4.43.0
+pandas
+awscli
+urllib3
 
 
 ## Structure and Components
