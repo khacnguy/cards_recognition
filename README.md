@@ -7,7 +7,7 @@ Firstly, we created a datasets using image processing. I took pictures of 52 car
 ![Example](generated_dataset.jpg)
 
 It is important to note that we want to detect only the small parts at the corners of the cards, as sometimes the other parts are covered. After feeding the dataset into the model, we will get the result and here is an example of the result:
-![Example](result.png)
+![Example](results.png)
 
 
 
