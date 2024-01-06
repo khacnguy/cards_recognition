@@ -13,6 +13,7 @@ It is important to note that we want to detect only the small parts at the corne
 
 
 ## Library
+```
 numpy>=1.18.2
 scipy>=1.4.1
 wget>=3.2
@@ -24,7 +25,7 @@ tqdm==4.43.0
 pandas
 awscli
 urllib3
-
+```
 
 ## Structure and Components
 - `create_datasets/create_datasets.py`: Create datasets with captured image 
