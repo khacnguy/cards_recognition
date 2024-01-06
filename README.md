@@ -17,9 +17,9 @@ It is important to note that we want to detect only the small parts at the corne
 
 
 ## Structure and Components
-Calculate parameters for linear models using maximum likelihood estimation
-
-- `create_tables.py`: Create tables for database 
-- `load_data.py`: Load data for simulation 
-
+- `create_datasets/create_datasets.py`: Create datasets with captured image 
+- `model_data/coco`: Testing data for yolov3
+- `tools/XML_to_YOLOv3.py`: prepare data (position in image) for the model
+- `YOLOv3_colab_training.py`: train data in google colab 
+- `train.py`: train data without google colab
 
