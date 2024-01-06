@@ -22,4 +22,5 @@ It is important to note that we want to detect only the small parts at the corne
 - `tools/XML_to_YOLOv3.py`: prepare data (position in image) for the model
 - `YOLOv3_colab_training.py`: train data in google colab 
 - `train.py`: train data without google colab
+- `other files`: yolov3 supplement files
 
